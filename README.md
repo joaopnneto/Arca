@@ -40,6 +40,7 @@ List of frameworks/libraries used on the project.
 * [Rails](https://rubyonrails.org/)
 * [Rspec](https://rspec.info/)
 * [Rubocop](https://github.com/rubocop/rubocop)
+* [Postgres](https://www.postgresql.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
