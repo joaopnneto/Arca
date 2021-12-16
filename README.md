@@ -57,39 +57,40 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+Windows
+* Ruby 2.7.0 url: https://rubyinstaller.org/downloads/archives/
   ```sh
   npm install npm@latest -g
+  ```
+* Docker
+  ```sh
+  https://www.docker.com/products/docker-desktop
+  ```
+* Rails 5.x
+  ```sh
+  gem install railties
   ```
 
 ### Installation
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/joaopnneto/Arca.git
    ```
-3. Install NPM packages
+2. Update gems
    ```sh
-   npm install
+   bundle install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+2. Build the project
+   ```sh
+   docker-compose build
    ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+3. Start server
+   ```sh
+   docker-compose up
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
