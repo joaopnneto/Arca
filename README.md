@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project created with the focus of testing technical knowledge.
+Project created with the intention of testing technical knowledge.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
