@@ -15,7 +15,7 @@ Para instalar o <rubyTest>, siga estas etapas:
 Windows:
 ```
 <comando_de_instalação>
-```
+```docker-compose build
 
 ## ☕ Usando <nome_do_projeto>
 
