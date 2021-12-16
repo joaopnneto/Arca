@@ -66,7 +66,7 @@ Windows
   ```
 * Rails 5.x
   ```sh
-  gem install railties
+  gem install rails
   ```
 
 ### Installation
