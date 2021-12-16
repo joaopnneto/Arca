@@ -16,11 +16,8 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -38,11 +35,12 @@ Project created with the focus of testing technical knowledge.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+List of frameworks/libraries used on the project.
 
 * [Ruby](https://www.ruby-lang.org/pt/)
 * [Rails](https://rubyonrails.org/)
 * [Rspec](https://rspec.info/)
+* [Rubocop](https://github.com/rubocop/rubocop)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
